@@ -1,0 +1,253 @@
+*{ 
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    direction: rtl;
+    margin: top;
+    background-color: #717070;
+    font-family: Arial, sans-serif;
+
+
+}
+.navbar{
+ background-color:#ffffff ; 
+ text-align: center;  
+}
+
+
+.navber-item{
+    display: inline-block;
+    line-height: 50px;
+   
+    width: 8rem;
+    
+    
+}
+.navbar-link{
+    text-decoration: none;
+    color: #000000;
+    display: block;
+}
+.navber-item:hover{
+    background-color: rgb(215, 211, 211);
+}
+.introdtion {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.h11 {
+    font-size: 36px;
+    color: #2c3e50;
+}
+
+.h12 {
+    font-size: 20px;
+    color: #34495e;
+    font-style: italic;
+}
+
+
+.gols {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.h13 {
+    font-size: 28px;
+    color: #2c3e50;
+}
+
+.ul4 {
+    list-style-type: none;
+    padding: 0;
+}
+
+.u15 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+
+.vido {
+    text-align: center;
+    margin: 60px 0;
+}
+
+.h18 {
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+iframe {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.h19{
+    text-align: center;
+    color: #ffffff;
+}
+
+.imgs {
+    text-align: center;
+  }
+  
+  .img-card {
+    display: inline-block; 
+    width: 50%; 
+    margin: 5rem; 
+    background-color: #fff;
+    border: 5px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    vertical-align: top; 
+    text-align: center; 
+  }
+  
+  .img-card img {
+    width: 45%; 
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .prgraf {
+    font-size: 1.5rem;
+    padding: 10px;
+    color: #333;
+  }
+
+.table1 table {
+    width: 100%;
+    border-collapse: collapse; 
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: center;
+    background-color: #f9f9f9; 
+  }
+  
+  .table1 th, .table1 td {
+    padding: 12px;
+    border: 1px solid #ddd;
+  }
+  
+  .table1 th {
+    background-color: #27445D; 
+    color: #fff; 
+    font-weight: bold;
+  }
+  
+  .table1 td {
+    background-color: #fff; 
+    color: #333; 
+  }
+  
+  .table1 tr:nth-child(even) td {
+    background-color: #f2f2f2; 
+  }
+  
+  .table1 tr:hover td {
+    background-color: #ddd; 
+  }
+
+  .order {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.order h3 {
+    font-size: 24px;
+    color: #f4f7fa;
+    margin-bottom: 15px;
+}
+
+.order ol {
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 20px; 
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.order li {
+    margin-bottom: 10px; 
+}
+
+h1 {
+    text-align: center;
+    color: #ced1d4;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.form-container {
+    width: 80%;
+    max-width: 600px;
+    margin: 30px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(236, 236, 236, 0.1);
+    
+}
+
+.hh4{
+    color: #fbf7f7;
+    font-size: 24px;
+}
+
+.hh5{
+    color: #dcd9d9;
+    font-size: 24px;
+}
+label {
+    display: block;
+    margin: 10px 0 5px;
+    color: #ebebeb;
+    font-size: 24px;
+}
+
+input[type="text"], select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #1c1818;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+input[type="radio"] {
+    margin-left: 10px;
+}
+
+h3 {
+    color: #34495e;
+    margin-bottom: 10px;
+}
+
+textarea {
+    resize: vertical;
+    height: 100px;
+}
+
+.hh {
+    background-color: #dcd9d9;
+    color: rgb(6, 5, 5);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    width: 100%;
+}
+
+  
+  
